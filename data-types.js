@@ -15,7 +15,7 @@ const boolean = true // false
 
 // arrays = list
 
-const colors = ["red", "green", "blue"]
+const colors = ["red", "green", "blue", "white"]
 
 // objects = description
 
